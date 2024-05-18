@@ -1,2 +1,4 @@
 # Network-Optimization
-A repo with some of the projects I have done regarding network optimization and network analytics
+The first projects []
+
+The second projects focuses on community detection. For which I use the Girvan-Newman and Louvain algorithms to detect community structures.
